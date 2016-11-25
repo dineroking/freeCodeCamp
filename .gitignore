@@ -1,0 +1,6 @@
+# GITIGNORE FILE FOR freeCodeCamp
+ 
+
+### GENERAL FILES
+
+.idea/*
